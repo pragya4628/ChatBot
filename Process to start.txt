@@ -1,0 +1,6 @@
+1. CLick on Path Bar
+2. Type CMD
+3. Type python
+4. from chatbot import demo
+5. demo()
+6. Let's chat-----------
